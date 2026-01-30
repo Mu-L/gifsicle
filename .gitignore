@@ -28,3 +28,8 @@ stamp-h*
 ungifsicle-*.rpm
 ungifsicle-*.tar.gz
 compile
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
